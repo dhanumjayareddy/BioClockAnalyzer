@@ -1,0 +1,7 @@
+# List of Python package requirements for Project_Name
+pandas
+numpy
+tensorflow
+scikit-learn
+matplotlib
+networkx
