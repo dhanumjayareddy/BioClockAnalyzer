@@ -54,7 +54,7 @@ Circadian rhythms govern essential biological processes, such as sleep-wake cycl
 
 ## File Structure
 
-```
+
 circadian-network-pipeline/
 ├── README.md                   # This file: Project overview, instructions, and details
 ├── LICENSE                     # Open-source license
@@ -94,7 +94,7 @@ circadian-network-pipeline/
     ├── requirements.txt       # Python package requirements
     ├── environment.yml        # Conda environment configuration
     └── Dockerfile             # Docker configuration file
-```
+
 
 ---
 
