@@ -487,7 +487,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Authors
 
-- [Your Name](mailto:your.email@example.com)
+- [Dhanumjaya Reddy Bhavanam](mailto:dhanumjayareddybhavanam@gmail.com)
 - Additional contributors as applicable.
 
 ---
